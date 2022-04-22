@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Markdown语法</title>
+      <link href="/2022/04/22/Hexo/Learn%20Hexo/"/>
+      <url>/2022/04/22/Hexo/Learn%20Hexo/</url>
+      
+        <content type="html"><![CDATA[<p>同业公会根据</p><h1 id="一级标题-ctr-1"><a href="#一级标题-ctr-1" class="headerlink" title="一级标题 ctr+1"></a>一级标题 ctr+1</h1><h2 id="二级标题-ctr-2"><a href="#二级标题-ctr-2" class="headerlink" title="二级标题 ctr+2"></a>二级标题 ctr+2</h2><h3 id="三级标题-ctr-3"><a href="#三级标题-ctr-3" class="headerlink" title="三级标题  ctr+3"></a>三级标题  ctr+3</h3><ul><li>无序列表 * + 空格</li><li>无序列表 - + 空格</li><li>无序列表 + + 空格</li></ul><ol><li>有序列表 数字 + .</li><li>有序列表</li></ol><blockquote><p>区块引用  &gt;</p></blockquote><blockquote><blockquote><p>引用嵌套 &gt;&gt;</p></blockquote></blockquote><blockquote><ol><li>引用中使用有序列表 &gt; 1.</li><li>引用中使用有序列表 &gt; 2.</li></ol><ul><li>引用中使用无序列表 &gt; * (接* - +都一样)</li></ul></blockquote><p><code>代码行 `` ，也可以当成强调？</code></p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">代码块：``` 语言类型 然后回车</span><br><span class="line">链接：[链接名](链接地址) 或者 &lt;链接地址&gt;</span><br><span class="line">    图片：</span><br></pre></td></tr></table></figure><p><a href="%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80">链接名</a> </p><p>&lt;链接地址&gt;</p><p>表格：</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/03/21/hello-world/"/>
       <url>/2022/03/21/hello-world/</url>
